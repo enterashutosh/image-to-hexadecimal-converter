@@ -40,7 +40,7 @@ To use the image to hexadecimal converter, follow these steps:
 3. Check the output:
    The resulting ASCII art will be saved as a text file with the specified name.
 
-## Examples
+## Example
 
 ![rgb image file](bug.jpg)
 
