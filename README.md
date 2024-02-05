@@ -42,7 +42,7 @@ To use the Dot Art Generator, follow these steps:
 
 ## Examples
 
-![Original Image](examples/original_image.jpg)
+![Original Image](bug.jpg)
 
 ![Dot Art](examples/dot_art.png)
 
