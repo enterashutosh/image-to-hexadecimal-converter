@@ -23,7 +23,7 @@ The image to hexadecimal converter is a Python script that converts images into 
    
 ## Usage
 
-To use the Dot Art Generator, follow these steps:
+To use the image to hexadecimal converter, follow these steps:
 
 1. Clone the repository:
     ```bash
@@ -42,9 +42,9 @@ To use the Dot Art Generator, follow these steps:
 
 ## Examples
 
-![Original Image](bug.jpg)
+![rgb image file](bug.jpg)
 
-![Dot Art](examples/dot_art.png)
+![hex text file](feature.txt)
 
 ## Contributing
 
